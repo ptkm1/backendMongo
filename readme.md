@@ -1,6 +1,6 @@
 ##Notas do rodapé
 
-1- Foi entendido que o Express é a rota para essa aplicação em nodeJs, com o Express é possivel que apenas exportando
+1- Express é a rota para essa aplicação em nodeJs, com o Express é possivel que apenas exportando
 o mesmo com : "  const express = require('express');  ", ele conectará os controladores (projetos.js e autenticador.js) com todos os
 arquivos que tiverem o express importado.
 
